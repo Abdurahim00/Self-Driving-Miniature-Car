@@ -64,7 +64,7 @@ cv::Mat processImage(const cv::Mat &result)
     cv::Mat yellowMask;
 
     int height = result.rows;
-    int croppedTopHeight = height * 0.4; // 40% from the top
+    int croppedTopHeight = height * 0.4; // 40% from the tops
     int remainingHeight = height * 0.5;  // Middle 50% of the height
 
     // Define the region of interest to exclude the bottom 5%

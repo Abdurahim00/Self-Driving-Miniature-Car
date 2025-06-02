@@ -165,7 +165,7 @@ Each line in the body of the commit message should not exceed 72 characters.
 
 ### 7. Use the body to explain _what_ and _why_ vs. _how_ ###
 
-When writing a commit message, focus on explaining the reason for the change, rather than describing the technical details of the code. Use comments within the code to explain complex logic or implementation details. By providing clear explanations in the commit message, you can make it easier for future maintainers (including yourself) to understand the intent behind the change.
+When writing a commit message, focus on explaining the reason for the change, rather than describing the technical details of the code. Use comments within the code to explain complex logic or implementation details. By providing clear explanations in the commit message, you can make it easier for future maintainers (including yourself) to understand the intent behind the change
 
 For additional details, please refer to the following link: https://cbea.ms/git-commit/
 
